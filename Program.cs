@@ -307,7 +307,7 @@ static void DisplayAllBooks()
             }
             else
             {
-                Console.WriteLine("No books found matching the criteria.");
+                Console.WriteLine("Nie znaleziono.");
             }
         }
     }
