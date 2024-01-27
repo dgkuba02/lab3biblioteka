@@ -1,0 +1,3 @@
+Pamiec nieulotna,Edward Snowden,2019,True
+Potop,Henryk Sienkiewicz,1886,False
+Kamienie na szaniec,Aleksander Kamiński,1943,True
